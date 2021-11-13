@@ -1,0 +1,19 @@
+{
+  "name": "pie",
+  "version": "1.0.0",
+  "description": "Professional identity for emplyement",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimAdDandan/pie.git"
+  },
+  "author": "Ibrahim AdDandan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IbrahimAdDandan/pie/issues"
+  },
+  "homepage": "https://github.com/IbrahimAdDandan/pie#readme"
+}
